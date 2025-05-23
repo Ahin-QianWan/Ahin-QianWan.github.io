@@ -13,7 +13,7 @@ author_profile: true
 
 ***`1984`***  --  *`George Orwell`*
 
-***`臺灣詩選`*** 
+***`臺灣詩選`*** --  *`宇文正主編`*
 
 ## 2025
 
@@ -25,9 +25,9 @@ author_profile: true
 
 ***`Introduction to Logic and to the Methodology of Deductive Sciences`***  --  *`Alfred Tarski`*
 
-***`Naming and Necessity`*** -- *`Saul A. Kripke`*
-
 ***`Republic`***  --  *`Plato`*
+
+***`Naming and Necessity`*** -- *`Saul A. Kripke`*
 
 ## 2023
 
