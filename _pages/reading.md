@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Reading"
+# title: "Reading"
 permalink: /reading/
 author_profile: true
 ---
@@ -13,11 +13,11 @@ author_profile: true
 
 **`1984` --** *`George Orwell`*
 
-### 2025
+## 2025
 
 **`Philosophical Investigations` --** *`Ludwig Wittgenstein`*
 
-### 2024
+## 2024
 
 **`Modern Philosophy` --** *`Roger Scruton`*
 
@@ -25,7 +25,7 @@ author_profile: true
 
 **`Republic` --** *`Plato`*
 
-### 2023
+## 2023
 
 **`我城` --** *`西西`*
 
@@ -33,7 +33,7 @@ author_profile: true
 
 **`A History of Philosophy: Greece and Rome` --** *`Frederick Copleston`*
 
-### 2022
+## 2022
 
 **`香港三部曲` --** *`陳冠中`*
 
