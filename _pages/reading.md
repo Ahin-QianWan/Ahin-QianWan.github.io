@@ -9,32 +9,32 @@ author_profile: true
 
 ## Currently Reading:
 
-*`Nicomachean Ethics`*  --  *`Aristotle`*
+***`Nicomachean Ethics`***  --  *`Aristotle`*
 
-*`1984`*  --  *`George Orwell`*
+***`1984`***  --  *`George Orwell`*
 
 ## 2025
 
-*`Philosophical Investigations`*  --  *`Ludwig Wittgenstein`*
+***`Philosophical Investigations`***  --  *`Ludwig Wittgenstein`*
 
 ## 2024
 
-*`Modern Philosophy`*  --  *`Roger Scruton`*
+***`Modern Philosophy`***  --  *`Roger Scruton`*
 
-*`Introduction to Logic and to the Methodology of Deductive Sciences`*  --  *`Alfred Tarski`*
+***`Introduction to Logic and to the Methodology of Deductive Sciences`***  --  *`Alfred Tarski`*
 
-*`Republic`*  --  *`Plato`*
+***`Republic`***  --  *`Plato`*
 
 ## 2023
 
-*`我城`*  --  *`西西`*
+***`我城`***  --  *`西西`*
 
-*`Metaphysics`*  --  *`Aristotle`* (quitted)
+***`Metaphysics`***  --  *`Aristotle`* (quitted)
 
-*`A History of Philosophy: Greece and Rome`*  --  *`Frederick Copleston`*
+***`A History of Philosophy: Greece and Rome`***  --  *`Frederick Copleston`*
 
 ## 2022
 
-*`香港三部曲`*  --  *`陳冠中`*
+***`香港三部曲`***  --  *`陳冠中`*
 
-*`香港簡史 A Concise History of Hong Kong`*  --  *`高馬可 John M. Carroll`*
+***`香港簡史 A Concise History of Hong Kong`***  --  *`高馬可 John M. Carroll`*
