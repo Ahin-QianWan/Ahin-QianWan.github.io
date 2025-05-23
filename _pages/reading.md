@@ -13,6 +13,8 @@ author_profile: true
 
 ***`1984`***  --  *`George Orwell`*
 
+***`臺灣詩選`*** 
+
 ## 2025
 
 ***`Philosophical Investigations`***  --  *`Ludwig Wittgenstein`*
@@ -22,6 +24,8 @@ author_profile: true
 ***`Modern Philosophy`***  --  *`Roger Scruton`*
 
 ***`Introduction to Logic and to the Methodology of Deductive Sciences`***  --  *`Alfred Tarski`*
+
+***`Naming and Necessity`*** -- *`Saul A. Kripke`*
 
 ***`Republic`***  --  *`Plato`*
 
