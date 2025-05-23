@@ -9,13 +9,13 @@ author_profile: true
 
 ## Currently Reading:
 
-`Nicomachean Ethics` -- *`Aristotle`*
+Nicomachean Ethics -- *`Aristotle`*
 
-1984` -- *`George Orwell`*
+1984 -- *`George Orwell`*
 
 ## 2025
 
-`Philosophical Investigations` -- *`Ludwig Wittgenstein`*
+Philosophical Investigations -- *`Ludwig Wittgenstein`*
 
 ## 2024
 
