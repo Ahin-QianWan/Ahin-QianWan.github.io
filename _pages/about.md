@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year PhD candidate at City University of Hong Kong, supervised by Professor [Yuhan Luo](https://yuhanlolo.github.io/me/), and previously Professor [Zhicong Lu](https://luzhc.github.io/). My current research explores the intersection between creativity support, human-AI collaboration, and social computing. Specifically, I seek to understand the anthropomorphized role of GenAI in creative thinking process, unravel downstream implications of co-creative activities such as storytelling in personal informatics, and design new paradigms and workflows to support human-GenAI collaboration.
+I'm a final year PhD candidate at City University of Hong Kong, supervised by Professor [Yuhan Luo](https://yuhanlolo.github.io/me/), and previously Professor [Zhicong Lu](https://luzhc.github.io/). My Chinese name is pronounced as **Wan Qian (Wan Chi-an)**, which I know can be tricky. Feel free to use my Cantonese nickname: Ahin (ɑː'hiːn).
+
+My current research explores the intersection between creativity support, human-AI collaboration, and social computing. Specifically, I seek to understand the anthropomorphized cognitive role of GenAI in the creative thinking process, unravel downstream implications of co-creative activities in personal informatics, and design new paradigms and workflows to support human-GenAI collaboration.
 
 Besides HCI research, I love reading philosophy.
 
