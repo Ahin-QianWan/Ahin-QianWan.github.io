@@ -13,8 +13,6 @@ author_profile: true
 
 ***`1984`***  --  *`George Orwell`*
 
-***`臺灣詩選`*** --  *`宇文正主編`*
-
 &nbsp;
 
 ## 2025
